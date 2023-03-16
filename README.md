@@ -1,4 +1,4 @@
-# ml-regression-flask
+# ML with flaskwebapp
 
 ## Steps
 1. Install dependencies using `pip install -r requirements.txt`
